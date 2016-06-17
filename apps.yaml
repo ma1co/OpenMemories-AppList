@@ -30,3 +30,15 @@ release:
   type: github
   user: Bostwickenator
   repo: dof-math
+
+---
+package: org.bostwickenator.googlephotos
+name: STG Uploader
+author: Bostwickenator
+desc: Upload photos directly into Google Photos
+homepage: http://stg-uploader.s3-website-us-east-1.amazonaws.com/
+release:
+  type: static
+  version: "1.0"
+  url: http://stg-uploader.s3-website-us-east-1.amazonaws.com/releases/stg-uploader-1.0.apk
+  desc: First cut
