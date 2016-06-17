@@ -8,3 +8,14 @@ release:
   type: github
   user: ma1co
   repo: PMCADemo
+
+---
+package: com.github.ma1co.openmemories.tweak
+name: "OpenMemories: Tweak"
+author: ma1co
+desc: Unlock your camera's settings
+homepage: https://github.com/ma1co/OpenMemories-Tweak
+release:
+  type: github
+  user: ma1co
+  repo: OpenMemories-Tweak
