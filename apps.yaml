@@ -19,3 +19,14 @@ release:
   type: github
   user: ma1co
   repo: OpenMemories-Tweak
+
+---
+package: org.bostwickenator.dofmath
+name: dof-math
+author: Bostwickenator
+desc: Calculate the front, back, and hyperfocal distances
+homepage: https://github.com/Bostwickenator/dof-math
+release:
+  type: github
+  user: Bostwickenator
+  repo: dof-math
