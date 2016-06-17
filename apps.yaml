@@ -1,1 +1,10 @@
-
+---
+package: com.github.ma1co.pmcademo.app
+name: PMCADemo
+author: ma1co
+desc: A demo app
+homepage: https://github.com/ma1co/PMCADemo
+release:
+  type: github
+  user: ma1co
+  repo: PMCADemo
