@@ -42,3 +42,14 @@ release:
   version: "1.0"
   url: http://stg-uploader.s3-website-us-east-1.amazonaws.com/releases/stg-uploader-1.0.apk
   desc: First cut
+
+---
+package: com.obsidium.focusbracket
+name: FocusBracket
+author: obs1dium
+desc: Proof-of-concept app for focus bracketing
+homepage: https://github.com/obs1dium/FocusBracket
+release:
+  type: github
+  user: obs1dium
+  repo: FocusBracket
