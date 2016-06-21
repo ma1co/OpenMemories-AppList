@@ -53,3 +53,14 @@ release:
   type: github
   user: obs1dium
   repo: FocusBracket
+
+---
+package: com.obsidium.bettermanual
+name: BetterManual
+author: obs1dium
+desc: An app for improved manual shooting with the Alpha 5100
+homepage: https://github.com/obs1dium/BetterManual
+release:
+  type: github
+  user: obs1dium
+  repo: BetterManual
