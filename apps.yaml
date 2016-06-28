@@ -36,12 +36,10 @@ package: org.bostwickenator.googlephotos
 name: STG Uploader
 author: Bostwickenator
 desc: Upload photos directly into Google Photos
-homepage: http://stg-uploader.s3-website-us-east-1.amazonaws.com/
+homepage: https://www.stg-uploader.xyz/
 release:
-  type: static
-  version: "1.0"
-  url: http://stg-uploader.s3-website-us-east-1.amazonaws.com/releases/stg-uploader-1.0.apk
-  desc: First cut
+  type: yaml
+  url: https://www.stg-uploader.xyz/releases/releases.yaml
 
 ---
 package: com.obsidium.focusbracket
