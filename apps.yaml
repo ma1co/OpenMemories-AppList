@@ -21,6 +21,17 @@ release:
   repo: OpenMemories-Tweak
 
 ---
+package: com.github.ma1co.openmemories.appstore
+name: "OpenMemories: AppStore"
+author: ma1co
+desc: Install new apps directly on your camera
+homepage: https://github.com/ma1co/OpenMemories-AppStore
+release:
+  type: github
+  user: ma1co
+  repo: OpenMemories-AppStore
+
+---
 package: org.bostwickenator.dofmath
 name: dof-math
 author: Bostwickenator
