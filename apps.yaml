@@ -73,3 +73,14 @@ release:
   type: github
   user: obs1dium
   repo: BetterManual
+
+---
+package: com.jonasjuffinger.timelapse
+name: TimeLapse
+author: jonasjuffinger
+desc: A simple app to take pictures with a given interval
+homepage: https://github.com/jonasjuffinger/TimeLapse
+release:
+  type: github
+  user: jonasjuffinger
+  repo: TimeLapse
