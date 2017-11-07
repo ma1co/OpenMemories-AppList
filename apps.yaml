@@ -53,6 +53,16 @@ release:
   url: https://www.stg-uploader.xyz/releases/releases.yaml
 
 ---
+package: org.bostwickenator.ftpuploader
+name: FTP Uploader
+author: Bostwickenator
+desc: Upload photos to your FTP server
+homepage: https://www.stg-uploader.xyz/
+release:
+  type: yaml
+  url: https://www.stg-uploader.xyz/ftp-releases/releases.yaml
+
+---
 package: com.obsidium.focusbracket
 name: FocusBracket
 author: obs1dium
