@@ -94,3 +94,14 @@ release:
   type: github
   user: jonasjuffinger
   repo: TimeLapse
+
+---
+package: com.github.LubikR.synologyuploader
+name: SynologyUploader
+author: LubikR
+desc: Upload photos to Synology NAS
+homepage: https://github.com/LubikR/SynologyUploader
+release:
+  type: github
+  user: LubikR
+  repo: SynologyUploader
