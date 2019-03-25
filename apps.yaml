@@ -105,3 +105,14 @@ release:
   type: github
   user: LubikR
   repo: SynologyUploader
+  
+---
+package: info.schnatterer.pmcaFilesystemServer
+name: pmcaFilesystemServer
+author: schnatterer
+desc: Provides the File System of the camera via HTTP
+homepage: https://github.com/schnatterer/pmcaFilesystemServer
+release:
+  type: github
+  user: schnatterer
+  repo: pmcaFilesystemServer
