@@ -116,3 +116,14 @@ release:
   type: github
   user: schnatterer
   repo: pmcaFilesystemServer
+
+---
+package: com.github.dired.pmcahdmicam
+name: HDMI Camera
+author: dired
+desc: Provides clean HDMI Output
+homepage: https://github.com/dired/PMCA-HDMICam
+release:
+  type: github
+  user: dired
+  repo: PMCA-HDMICam
