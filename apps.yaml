@@ -116,3 +116,15 @@ release:
   type: github
   user: schnatterer
   repo: pmcaFilesystemServer
+
+---
+package: org.mg.gpsdownloader
+name: GPS Downloader
+author: grueni75
+desc: Downloads the GPS assist data for faster locks
+homepage: https://github.com/grueni75/GPSDownloader
+release:
+  type: github
+  user: grueni75
+  repo: GPSDownloader
+
