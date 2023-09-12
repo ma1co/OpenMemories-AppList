@@ -116,3 +116,14 @@ release:
   type: github
   user: schnatterer
   repo: pmcaFilesystemServer
+
+---
+package: com.frosbe.holygrail
+name: SonyHolyGrailTimelapse
+author: Frosbe
+desc: Automatic Timelapse app with Holy Grail support (LRTimelapse)
+homepage: https://github.com/Frosbe/SonyHolyGrailTimelapse
+release:
+  type: github
+  user: frosbe
+  repo: SonyHolyGrailTimelapse
