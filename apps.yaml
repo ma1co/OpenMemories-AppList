@@ -96,6 +96,17 @@ release:
   repo: TimeLapse
 
 ---
+package: com.github.pyzahl.sofimagic
+name: SoFiMagic
+author: pyzahl
+desc: App to fully automate Solar Eclipse (and more) complex multi phase shooting / exposure series based on absolut timed programm
+homepage: https://github.com/pyzahl/SoFiMagic
+release:
+  type: github
+  user: pyzahl
+  repo: SoFiMagic
+
+---
 package: com.github.LubikR.synologyuploader
 name: SynologyUploader
 author: LubikR
